@@ -5,3 +5,4 @@ yarn create react-app solo-app-mapbox --template typescript
 npm install --save mapbox-gl
 npm install -D @types/mapbox-gl
 npm start
+
